@@ -3,7 +3,6 @@
 > **Project Type:** Cybersecurity Home Lab  
 > **Platform:** Microsoft Azure  
 > **Tools Used:** Microsoft Sentinel (SIEM), Log Analytics Workspace, Windows 10 VM, PowerShell, KQL  
-> **Inspired by:** [Josh Madakor's YouTube Tutorial](https://youtu.be/g5JL2RIbThM)
 
 ---
 
